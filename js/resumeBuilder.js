@@ -5,7 +5,7 @@ var work = {
 			"employer" : "Montefiore Medical Center",
 			"years" : "2012 - present",
 			"location" : "New York, NY",
-			"description" : "Developed and maintained database management and business analytics to suport the Strategic Planning department and the Montefiore strategic plan in general"
+			"description" : "Developed and maintained databases and business analytics to support the Strategic Planning department and the Montefiore strategic plan in general"
 		},
 		{
 			"title" : "Supply Chain Analyst",
@@ -19,7 +19,7 @@ var work = {
 			"employer" : "United States Peace Corps",
 			"years" : "2008 - 2010",
 			"location" : "Turkmenistan",
-			"description" : "Taught general health education, english and teaching methodologies, in Turkmen and Uzbek to Turkmen nationals"
+			"description" : "Taught general health education, English and teaching methodologies, in Turkmen and Uzbek to Turkmen nationals"
 		}]
 };
 
