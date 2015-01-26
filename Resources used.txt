@@ -1,0 +1,8 @@
+http://www.menucool.com/tabbed-content - Pulled in JS and CSS file to create 
+tabbed menus. Altered from original files 
+
+https://developer.mozilla.org - Used as background to create CSS and Javascript
+
+http://api.jquery.com/ - Used as background to create Jquery
+
+https://www.google.com/fonts#UsePlace:use - Used to get "Quicksand" font
