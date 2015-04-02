@@ -1,3 +1,11 @@
+
+ To launch the application:
+
+ - Open the index file in a browser, all other files are either referenced by that file or can be navigated to from 
+ that page
+
+ - To see the main.js file at work, go to the Cameron's pizzeria link on the first page
+
 Changes made to portfolio:
 
  - In-lined css file
